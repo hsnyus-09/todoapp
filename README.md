@@ -1,6 +1,6 @@
 # todoapp
 
-간단한 To-Do List 앱입니다.  
+React와 Type Script를 사용한 간단한 To-Do List 웹앱입니다.  
 
 ---
 
